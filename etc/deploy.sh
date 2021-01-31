@@ -2,11 +2,11 @@
 
 # CHANGE THESE VALUES!
 # Note. Pick a location where Vision API is available 
-resGroup="Demo.ServerlessVision"
-location="northeurope"
+resGroup="DemoServerlessVisionDevCon"
+location="southeastasia"
 
 # CHANGE THESE VALUES IF YOU WISH
-suffix="$RANDOM"
+suffix="devcon21"
 storeAcct="visiondemostore$suffix"
 functionName="visiondemofunc$suffix"
 
